@@ -2,8 +2,8 @@ import React from 'react'
 
 function Body() {
   return (
-    <main>
-        
+    <main className={styles.wrapper}>
+
     </main>
   )
 }

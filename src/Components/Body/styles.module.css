@@ -2,7 +2,20 @@
   width: 100%;
   padding: 6rem 1rem 3rem 1rem;
   background-color: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  color: #444;
+}
+.btn {
+  display: block;
+  color: #fff;
+  background-image: linear-gradient(to right, #ee6f1b, #e02509);
+  padding: 1rem 2rem;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2rem;
+  margin-top: 2rem;
+  transition: all ease 500ms;
+  opacity: 0.85;
+}
+.btn:hover {
+  opacity: 1;
 }

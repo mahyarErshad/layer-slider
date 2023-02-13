@@ -1,3 +1,8 @@
+# Available On:
+<a href="https://www.zhaket.com/web/filter-everything-filter-plugin/demo" target="_blank" > Zhaket </a>  
+<a href="https://raykacode.com/layerslider/" target="_blank" > Rayka </a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

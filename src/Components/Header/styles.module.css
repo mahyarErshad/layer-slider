@@ -26,8 +26,8 @@
 }
 .heading {
   position: absolute;
-  top: 50%;
-  left: 20%;
+  top: 55%;
+  left: 13%;
 }
 .h1 {
   font-size: 4.685rem;
@@ -39,6 +39,15 @@
   font-family: "Montserrat";
   font-weight: 600;
   text-transform: uppercase;
+  color: rgb(255, 212, 252);
+  background-clip: border-box;
+}
+.description {
+  font-size: 1.7569rem;
+  font-style: normal;
+  text-decoration: none;
+  font-weight: 400;
+  letter-spacing: 0px;
   color: rgb(255, 212, 252);
   background-clip: border-box;
 }

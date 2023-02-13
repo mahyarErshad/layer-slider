@@ -20,7 +20,7 @@ function Header() {
       </div>
       <div className={styles.heading}>
         <h1 className={styles.h1}>Layer Slider</h1>
-        <p>افزونه نهایی وردپرس برای ایجاد محتوای وب با طراحی زیبا و متحرک.</p>
+        <p className={styles.description}>افزونه نهایی وردپرس برای ایجاد محتوای وب با طراحی زیبا و متحرک.</p>
       </div>
     </header>
   );

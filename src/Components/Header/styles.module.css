@@ -24,3 +24,8 @@
   height: 11.7125rem;
   border-radius: 6px;
 }
+.heading {
+  position: absolute;
+  top: 60%;
+  left: 35%;
+}

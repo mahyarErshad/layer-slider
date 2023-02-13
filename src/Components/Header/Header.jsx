@@ -18,6 +18,9 @@ function Header() {
           return <img className={styles.card} src={item} alt="Layer Slider" />;
         })}
       </div>
+      <div className={styles.heading}>
+        <h1>Layer Slider</h1>
+      </div>
     </header>
   );
 }

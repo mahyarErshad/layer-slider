@@ -15,12 +15,12 @@ function Header() {
     <header className={styles.wrapper}>
       <div className={styles.cards}>
         {images.map((item, index) => {
-          return <img className={styles.card} src={item} alt="Layer Slider" />;
+          return <img key={index} className={styles.card} src={item} alt="Layer Slider" />;
         })}
       </div>
       <div className={styles.heading}>
         <h1 className={styles.h1}>Layer Slider</h1>
-        <p className={styles.description}>افزونه نهایی وردپرس برای ایجاد محتوای وب با طراحی زیبا و متحرک.</p>
+        <p className={styles.description}>افزونه قدرتمند وردپرس برای ایجاد محتوای وب با طراحی زیبا و متحرک.</p>
       </div>
       <div className="w-full flex-center">
         <a className={styles.btn} href="https://layerslider.com/sliders/" target="_blank" rel="noreferrer">

@@ -4,17 +4,17 @@
 
 @font-face {
   font-family: Yekan;
-  src: url(./assets/font/yekanBakhRegular.woff2);
+  src: url(./assets/font/iranyekanwebregularfanum.woff) format("woff");
   font-weight: 400;
 }
 @font-face {
   font-family: Yekan;
-  src: url(./assets/font/yekanBakhSemiBold.woff2);
+  src: url(./assets/font/iranyekanwebmediumfanum.woff) format("woff");
   font-weight: 500;
 }
 @font-face {
   font-family: Yekan;
-  src: url(./assets/font/yekanBakhBold.woff2);
+  src: url(./assets/font/iranyekanwebboldfanum.woff) format("woff");
   font-weight: 700;
 }
 
@@ -23,7 +23,7 @@
   padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
-  font-family: Yekan, sans-serif;
+  font-family: yekan !important;
 }
 
 body,

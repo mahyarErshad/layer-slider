@@ -5,6 +5,7 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  position: relative;
 }
 .cards {
   display: flex;
@@ -13,8 +14,13 @@
   align-items: center;
   flex-wrap: wrap;
   width: 1400px;
+  position: absolute;
+  top: 16%;
+  right: 5%;
+  transform: rotate(26deg);
 }
 .card {
   width: 21.0825rem;
   height: 11.7125rem;
+  border-radius: 6px;
 }

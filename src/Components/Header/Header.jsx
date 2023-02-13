@@ -19,7 +19,7 @@ function Header() {
         })}
       </div>
       <div className={styles.heading}>
-        <h1>Layer Slider</h1>
+        <h1 className={styles.h1}>Layer Slider</h1>
       </div>
     </header>
   );

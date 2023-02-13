@@ -1,5 +1,6 @@
 import React from "react";
-import image from "../../assets/images/body-image.jpg";
+import image from "../../assets/images/body-image.JPG";
+import styles from "./styles.module.css";
 
 function Body() {
   return (

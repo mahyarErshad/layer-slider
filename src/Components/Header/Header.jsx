@@ -3,7 +3,9 @@ import styles from "./styles.module.css"
 
 function Header() {
   return (
-    <div className={styles.wrapper}>Header</div>
+    <header className={styles.wrapper}>
+        <div className={styles.cards}></div>
+    </header>
   )
 }
 

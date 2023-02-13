@@ -6,3 +6,9 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+.cards {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}

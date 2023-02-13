@@ -11,4 +11,10 @@
   gap: 1rem;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
+  width: 1400px;
+}
+.card {
+  width: 21.0825rem;
+  height: 11.7125rem;
 }

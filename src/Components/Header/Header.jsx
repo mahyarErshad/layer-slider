@@ -22,6 +22,7 @@ function Header() {
         <h1 className={styles.h1}>Layer Slider</h1>
         <p className={styles.description}>افزونه نهایی وردپرس برای ایجاد محتوای وب با طراحی زیبا و متحرک.</p>
       </div>
+      <div className="w-full flex-center"></div>
     </header>
   );
 }

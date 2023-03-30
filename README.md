@@ -1,4 +1,4 @@
-# Available On:
+ه# Available On:
 <a href="http://rtlr.ir/26917" target="_blank" > RTL </a>  
 <a href="https://raykacode.com/layerslider/" target="_blank" > Rayka </a> 
 
@@ -6,7 +6,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts 
+## Available Scripts
  
 In the project directory, you can run: 
 
